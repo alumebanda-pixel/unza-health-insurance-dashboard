@@ -1,0 +1,7 @@
+# Survey response files contain respondent-level data; never commit them.
+source_responses.xlsx
+*_Responses.xlsx
+*Responses*.xlsx
+analysis_checks.json
+__pycache__/
+*.py[cod]
